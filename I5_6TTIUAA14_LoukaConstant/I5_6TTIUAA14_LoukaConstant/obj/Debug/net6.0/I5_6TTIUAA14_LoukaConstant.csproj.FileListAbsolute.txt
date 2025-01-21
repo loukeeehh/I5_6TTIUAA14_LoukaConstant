@@ -1,0 +1,15 @@
+H:\matière 6e\UAA14 POO\I5_6TTIUAA14_LoukaConstant\I5_6TTIUAA14_LoukaConstant\bin\Debug\net6.0\I5_6TTIUAA14_LoukaConstant.exe
+H:\matière 6e\UAA14 POO\I5_6TTIUAA14_LoukaConstant\I5_6TTIUAA14_LoukaConstant\bin\Debug\net6.0\I5_6TTIUAA14_LoukaConstant.deps.json
+H:\matière 6e\UAA14 POO\I5_6TTIUAA14_LoukaConstant\I5_6TTIUAA14_LoukaConstant\bin\Debug\net6.0\I5_6TTIUAA14_LoukaConstant.runtimeconfig.json
+H:\matière 6e\UAA14 POO\I5_6TTIUAA14_LoukaConstant\I5_6TTIUAA14_LoukaConstant\bin\Debug\net6.0\I5_6TTIUAA14_LoukaConstant.dll
+H:\matière 6e\UAA14 POO\I5_6TTIUAA14_LoukaConstant\I5_6TTIUAA14_LoukaConstant\bin\Debug\net6.0\I5_6TTIUAA14_LoukaConstant.pdb
+H:\matière 6e\UAA14 POO\I5_6TTIUAA14_LoukaConstant\I5_6TTIUAA14_LoukaConstant\obj\Debug\net6.0\I5_6TTIUAA14_LoukaConstant.csproj.AssemblyReference.cache
+H:\matière 6e\UAA14 POO\I5_6TTIUAA14_LoukaConstant\I5_6TTIUAA14_LoukaConstant\obj\Debug\net6.0\I5_6TTIUAA14_LoukaConstant.GeneratedMSBuildEditorConfig.editorconfig
+H:\matière 6e\UAA14 POO\I5_6TTIUAA14_LoukaConstant\I5_6TTIUAA14_LoukaConstant\obj\Debug\net6.0\I5_6TTIUAA14_LoukaConstant.AssemblyInfoInputs.cache
+H:\matière 6e\UAA14 POO\I5_6TTIUAA14_LoukaConstant\I5_6TTIUAA14_LoukaConstant\obj\Debug\net6.0\I5_6TTIUAA14_LoukaConstant.AssemblyInfo.cs
+H:\matière 6e\UAA14 POO\I5_6TTIUAA14_LoukaConstant\I5_6TTIUAA14_LoukaConstant\obj\Debug\net6.0\I5_6TTIUAA14_LoukaConstant.csproj.CoreCompileInputs.cache
+H:\matière 6e\UAA14 POO\I5_6TTIUAA14_LoukaConstant\I5_6TTIUAA14_LoukaConstant\obj\Debug\net6.0\I5_6TTIUAA14_LoukaConstant.dll
+H:\matière 6e\UAA14 POO\I5_6TTIUAA14_LoukaConstant\I5_6TTIUAA14_LoukaConstant\obj\Debug\net6.0\refint\I5_6TTIUAA14_LoukaConstant.dll
+H:\matière 6e\UAA14 POO\I5_6TTIUAA14_LoukaConstant\I5_6TTIUAA14_LoukaConstant\obj\Debug\net6.0\I5_6TTIUAA14_LoukaConstant.pdb
+H:\matière 6e\UAA14 POO\I5_6TTIUAA14_LoukaConstant\I5_6TTIUAA14_LoukaConstant\obj\Debug\net6.0\I5_6TTIUAA14_LoukaConstant.genruntimeconfig.cache
+H:\matière 6e\UAA14 POO\I5_6TTIUAA14_LoukaConstant\I5_6TTIUAA14_LoukaConstant\obj\Debug\net6.0\ref\I5_6TTIUAA14_LoukaConstant.dll
